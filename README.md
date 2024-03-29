@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Robin Dhami</h1>
 <h3 align="center">A Developer from Nepal</h3>
 
-<img align="right" alt="Coding" width="400"  src="https://ardas-it.com/uploads/images/blogs/giph.gif">
+<img align="center" alt="Coding" width="400"  src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robindhami&label=Profile%20views&color=0e75b6&style=flat" alt="robindhami" /> </p>
 
