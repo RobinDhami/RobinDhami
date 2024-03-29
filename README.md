@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left " >
   <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Banner Image">
 </p>
 <h1 align="center">Hi 👋, I'm Robin Dhami</h1>
@@ -6,7 +6,7 @@
 
 <img align="center" alt="Coding" width="400"  src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robindhami&label=Profile%20views&color=0e75b6&style=flat" alt="robindhami" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=robindhami&label=Profile%20views&color=0e75b6&style=flat" alt="robindhami" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robindhami" alt="robindhami" /></a> </p>
 
@@ -30,8 +30,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center" gap="5px"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<p align="left" > <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" padding-right="20px"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
