@@ -1,4 +1,6 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif))]
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Banner Image">
+</p>
 <h1 align="center">Hi 👋, I'm Robin Dhami</h1>
 <h3 align="center">A Developer from Nepal</h3>
 
