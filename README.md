@@ -24,6 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/robin-dhami-991476250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robin-dhami-991476250" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21713737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21713737" height="30" width="40" /></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://instagram.com/lifesuckss_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lifesuckss_69" height="30" width="40" /></a>
 <a href="https://www.behance.net/theroast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="theroast" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rozendhami69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rozendhami69" height="30" width="40" /></a>
