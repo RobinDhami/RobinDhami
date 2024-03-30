@@ -14,8 +14,8 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-robindhamis-projects.vercel.app/](https://portfolio-robindhamis-projects.vercel.app/)
 
-- 💬 Ask me about **React, Tailwind, Python, SQL, AWS**
-
+- 💬 Ask me about **React, Tailwind, Python, SQL, AWS** 
+- 📝   I write articles at https://medium.com/@rozendhami69
 - 📫 How to reach me **rozendhami69@gmail.com**
 
 - ⚡ Fun fact **I am actually Funny**
